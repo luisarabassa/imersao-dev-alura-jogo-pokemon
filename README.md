@@ -24,4 +24,4 @@ A interface apresenta um fundo com arte temática do universo Pokémon, com elem
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-pokemon.git
+   git clone https://github.com/luisarabassa/jogo-pokemon.git
