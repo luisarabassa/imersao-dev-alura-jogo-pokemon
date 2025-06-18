@@ -1,0 +1,62 @@
+body {
+  background-color: #253263;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+#pokemon {
+  width: 14rem;
+}
+
+.logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 150px;
+  width: auto;
+}
+
+.container {
+  background: url("https://images8.alphacoders.com/120/thumb-1920-1207201.png") no-repeat center center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.content {
+  max-width: 22rem;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 40px;
+  border-radius: 8px;
+}
+
+.content h2 {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #3d5fb0;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 5px;
+  font-size: 1.2rem;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #eeba06;
+  color: #0c0c0c;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+}
