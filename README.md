@@ -10,7 +10,7 @@ Este é um mini joguinho interativo desenvolvido rapidamente como parte da **Ime
 - Simulação de batalha com um Pokémon adversário gerado aleatoriamente
 - Resultado baseado em lógica de vantagem entre os tipos
 
-## 🛠️ Tecnologias Utilizadas
+## 🎯 Tecnologias Utilizadas
 
 - HTML
 - CSS
