@@ -23,5 +23,6 @@ A interface apresenta um fundo com arte temática do universo Pokémon, com elem
 ## 🚀 Como Executar
 
 1. Clone o repositório:
+   
    ```bash
    git clone https://github.com/luisarabassa/imersao-dev-alura-jogo-pokemon.git
