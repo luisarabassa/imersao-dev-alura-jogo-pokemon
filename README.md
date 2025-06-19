@@ -1,4 +1,4 @@
-# 🎮 Mini jogo Pokémon
+# 🎮 Pokémon - Mini jogo
 
 Este é um mini joguinho interativo desenvolvido rapidamente como parte da **Imersão Dev 9º Edição da Alura**. O objetivo é proporcionar uma experiência divertida de introdução ao mundo Pokémon, onde o jogador pode escolher seu Pokémon inicial e participar de uma batalha!
 
